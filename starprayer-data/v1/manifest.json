@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "2026.11.22.1",
-  "min_app_version": "0.9.15",
-  "size": 23191,
-  "sha256": "ab1b1d630b4010f8885855de5e3e27bcc4b247f7cbb8e18e43efa49cd5f822f8",
-  "notes": "补齐木棉球和风妖精共用的木棉球糖果在桌面版背包中的图标。"
+  "version": "2026.11.22.2",
+  "min_app_version": "0.9.19",
+  "size": 46456,
+  "sha256": "98483a1d3035252624c9c6b2ae4aee7c20763c4cb12c9377eaa6470eda0b38fa",
+  "notes": "补齐木棉球和风妖精的糖果名称及图标、薰香名称、睡姿关联和进化关系。"
 }
